@@ -1,0 +1,61 @@
+{
+  "andrea-celli": {
+    "page": "https://www.unibocconi.it/en/faculty/andrea-celli",
+    "image": "https://www.unibocconi.it/sites/default/files/styles/container_100_md/public/media/images/profile_pic_webpage2.jpeg.webp?itok=FosKdd7t",
+    "local": "assets/people/andrea-celli.webp",
+    "bytes": 29456
+  },
+  "nemanja-draganic": {
+    "page": "https://www.unibocconi.it/en/faculty/nemanja-draganic",
+    "image": "https://www.unibocconi.it/sites/default/files/styles/container_100_md/public/media/images/PTN00091.jpg.webp?itok=Bry5-9mD",
+    "local": "assets/people/nemanja-draganic.webp",
+    "bytes": 20404
+  },
+  "marek-elias": {
+    "page": "https://www.unibocconi.it/en/faculty/marek-elias",
+    "image": "https://www.unibocconi.it/sites/default/files/styles/container_100_md/public/media/images/Elias850.png.webp?itok=cPlK5ndi",
+    "local": "assets/people/marek-elias.webp",
+    "bytes": 15190
+  },
+  "giulio-malavolta": {
+    "page": "https://www.unibocconi.it/en/faculty/giulio-malavolta",
+    "image": "https://www.unibocconi.it/sites/default/files/styles/container_100_md/public/media/images/malavolta_PTN01060.jpg.webp?itok=Nm9k1deE",
+    "local": "assets/people/giulio-malavolta.webp",
+    "bytes": 32458
+  },
+  "emmanuela-orsini": {
+    "page": "https://www.unibocconi.it/en/faculty/emmanuela-orsini",
+    "image": "https://www.unibocconi.it/sites/default/files/styles/container_100_md/public/media/images/ManuMi3Small.jpg.webp?itok=-dcfqcK1",
+    "local": "assets/people/emmanuela-orsini.webp",
+    "bytes": 30148
+  },
+  "laura-sanita": {
+    "page": "https://www.unibocconi.it/en/faculty/laura-sanita",
+    "image": "https://www.unibocconi.it/sites/default/files/styles/container_100_md/public/media/images/SANITA%27%20cropped.jpg.webp?itok=T87Bhdb0",
+    "local": "assets/people/laura-sanita.webp",
+    "bytes": 28142
+  },
+  "adam-polak": {
+    "page": "https://www.unibocconi.it/en/faculty/adam-teodor-polak",
+    "image": "https://www.unibocconi.it/sites/default/files/styles/container_100_md/public/media/images/PTN01031.jpg.webp?itok=KBBkOIUE",
+    "local": "assets/people/adam-polak.webp",
+    "bytes": 35826
+  },
+  "mariana-gama": {
+    "page": "https://mmargama.github.io/",
+    "image": "https://mmargama.github.io/images/photo2.jpeg",
+    "local": "assets/people/mariana-gama.jpg",
+    "bytes": 175257
+  },
+  "paul-lou": {
+    "page": "https://paullou.me/",
+    "image": "https://paullou.me/assets/images/headshot_dec2025.jpg",
+    "local": "assets/people/paul-lou.jpg",
+    "bytes": 139408
+  },
+  "valerio-cini": {
+    "page": "https://sites.google.com/view/valeriocini/home",
+    "image": "https://sites.google.com/sitesv-images-rt/AMxu72uUnd9D1K3eSYV8hlmorC4Am2hYH_40x119yR8rdEt43ZVaO7aqhqXT7g58P5eclcpCsoT7YxixB9juVEohnnpn6w4jbY8TkztGxS7rpUknD4ntG-y9zl_lT38MiM957o3v7pA1ZvuEYrOl8hGmUyX8nDxlP_HZk7Z6N1CKf90F5fhJ1jZqvo8tlA8kDBtaHt-XWTbs8iCxVDgEA_M=w1280",
+    "unavailable": true
+  }
+}
