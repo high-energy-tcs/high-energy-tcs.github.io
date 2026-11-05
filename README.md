@@ -14,7 +14,7 @@ For a person with a profile, use this form and substitute their name and profile
 <li><a href="PROFILE_URL">Name</a></li>
 ```
 
-For a solved problem, link the title to its paper or write-up.
+For progress on a problem, link the title to its paper or write-up.
 
 ```html
 <li><a href="SOLUTION_URL">Problem title</a></li>
